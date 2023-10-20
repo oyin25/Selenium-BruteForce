@@ -1,0 +1,13 @@
+{
+    "username": "hosted@gmail.com",
+    "element_input_name": "Email",
+    "element_input_password": "Password",
+    "element_button_login_xpath": "//*[@id=\"root\"]/div[1]/div/div[2]/div[3]/button",
+    "website": "https://app.tribapay.com/sign-in",
+    "error": "Please do a password reset",
+    "error2": "Invalid login details",
+    "error_xpath": "//*[@id=\"root\"]/div[1]/div/div[2]/div[2]/div[3]/p",
+    "input_speed_range": "0.1 - 0.5",
+    "click_speed_range": "0.5 - 1.5",
+    "headless": true
+}
