@@ -23,9 +23,12 @@ If you're new to coding or GitHub, don't worry! Here's how to get started with *
 1. **Clone the Repository:** Use the following command to clone the repository to your local machine:
 
 
-
+# Run CMD or Terminal
 ```ruby
 git clone https://github.com/oyin25/Selenium-BruteForce.git
+#Before Run python webbruteforce.py you have to run and install Lib
+pip install -r requirements.txt 
+python webbruteforce.py
 ```
 
 
