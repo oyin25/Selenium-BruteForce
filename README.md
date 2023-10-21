@@ -65,10 +65,10 @@ Welcome to the **Selenium Bruteforce** GitHub repository! If you're new to codin
 
 You can connect with me on social media:
 
-[![Facebook](https://img.icons8.com/color/48/000000/facebook.png)](https://www.facebook.com/mr.Host)
-[![Twitter](https://img.icons8.com/color/48/000000/twitter.png)](https://twitter.com/your_twitter_handle)
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/your_linkedin_profile)
-[![Instagram](https://img.icons8.com/color/48/000000/instagram.png)](https://www.instagram.com/your_instagram_handle)
+[![Facebook](https://img.icons8.com/color/48/000000/facebook.png)](https://www.facebook.com/mrhost1)
+[![Twitter](https://img.icons8.com/color/48/000000/twitter.png)](https://twitter.com/mrhost1)
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/mrhost1)
+[![Instagram](https://img.icons8.com/color/48/000000/instagram.png)](https://www.instagram.com/mrhost1)
 
 ## How to Get Help
 
